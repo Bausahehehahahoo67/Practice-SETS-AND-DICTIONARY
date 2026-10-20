@@ -1,9 +1,9 @@
 from pyscript import document, display
 
 
-subjects = ["Math", "Science", "Filipino", "ICT"] #originally a list
-converted_version = frozenset(subjects)
-display(converted_version, target = "result")
+#subjects = ["Math", "Science", "Filipino", "ICT"] #originally a list
+#converted_version = frozenset(subjects)
+#display(converted_version, target = "result")
 
 #set_1 = {"Fries", "Burger", }
 #set_2 = {"Fries", "Burger", "Coke", "Applepie"}
